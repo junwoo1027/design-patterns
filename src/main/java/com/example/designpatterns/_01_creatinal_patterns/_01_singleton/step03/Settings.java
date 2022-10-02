@@ -1,4 +1,4 @@
-package com.example.designpatterns.singleton.step03;
+package com.example.designpatterns._01_creatinal_patterns._01_singleton.step03;
 
 public class Settings {
     private static final Settings INSTANCE = new Settings();

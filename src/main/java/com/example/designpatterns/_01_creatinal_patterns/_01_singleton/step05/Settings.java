@@ -1,4 +1,4 @@
-package com.example.designpatterns.singleton.step05;
+package com.example.designpatterns._01_creatinal_patterns._01_singleton.step05;
 
 public class Settings {
     private Settings() {}

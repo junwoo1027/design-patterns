@@ -1,4 +1,4 @@
-package com.example.designpatterns.singleton.step04;
+package com.example.designpatterns._01_creatinal_patterns._01_singleton.step04;
 
 public class Settings {
     private static volatile Settings instance;

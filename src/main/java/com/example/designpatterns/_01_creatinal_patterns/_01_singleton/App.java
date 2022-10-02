@@ -1,6 +1,6 @@
-package com.example.designpatterns.singleton;
+package com.example.designpatterns._01_creatinal_patterns._01_singleton;
 
-import com.example.designpatterns.singleton.step05.Settings;
+import com.example.designpatterns._01_creatinal_patterns._01_singleton.step05.Settings;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
