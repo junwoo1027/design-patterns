@@ -10,7 +10,7 @@ public class Settings {
      * 단점: 메소드 호출 시 동기화 처리 비용
      * @return
      */
-    private static synchronized Settings getInstance() {
+    public static synchronized Settings getInstance() {
         if (instance == null) {
             instance = new Settings();
         }

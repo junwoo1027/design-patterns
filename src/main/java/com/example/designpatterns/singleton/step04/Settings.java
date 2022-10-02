@@ -10,7 +10,7 @@ public class Settings {
      *
      * @return
      */
-    private static Settings getInstance() {
+    public static Settings getInstance() {
         if (instance == null) {
             synchronized (Settings.class) {
                 if (instance == null) {

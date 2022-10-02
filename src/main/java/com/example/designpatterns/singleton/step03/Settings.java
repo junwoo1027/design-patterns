@@ -10,7 +10,7 @@ public class Settings {
      * 단점: 미리 생성하는 자체가 단점
      * @return
      */
-    private static synchronized Settings getInstance() {
+    public static Settings getInstance() {
         return INSTANCE;
     }
 }
