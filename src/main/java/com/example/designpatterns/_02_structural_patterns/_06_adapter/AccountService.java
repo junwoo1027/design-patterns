@@ -1,7 +1,7 @@
-package com.example.designpatterns._01_creatinal_patterns._06_adapter;
+package com.example.designpatterns._02_strucural_patterns._06_adapter;
 
-import com.example.designpatterns._01_creatinal_patterns._06_adapter.security.UserDetails;
-import com.example.designpatterns._01_creatinal_patterns._06_adapter.security.UserDetailsService;
+import com.example.designpatterns._02_strucural_patterns._06_adapter.security.UserDetails;
+import com.example.designpatterns._02_strucural_patterns._06_adapter.security.UserDetailsService;
 
 public class AccountService implements UserDetailsService {
 
