@@ -1,4 +1,4 @@
-package com.example.designpatterns._02_strucural_patterns._06_adapter.security;
+package com.example.designpatterns._02_structural_patterns._06_adapter.security;
 
 public class LoginHandler {
     UserDetailsService userDetailsService;

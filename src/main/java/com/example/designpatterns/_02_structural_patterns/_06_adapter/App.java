@@ -1,7 +1,7 @@
-package com.example.designpatterns._02_strucural_patterns._06_adapter;
+package com.example.designpatterns._02_structural_patterns._06_adapter;
 
-import com.example.designpatterns._02_strucural_patterns._06_adapter.security.LoginHandler;
-import com.example.designpatterns._02_strucural_patterns._06_adapter.security.UserDetailsService;
+import com.example.designpatterns._02_structural_patterns._06_adapter.security.LoginHandler;
+import com.example.designpatterns._02_structural_patterns._06_adapter.security.UserDetailsService;
 
 /**
  * 어댑터 패턴: 기존 코드를 클라이언트가 사용하는 인터페이스의 구현체로 바꿔주는 패턴
